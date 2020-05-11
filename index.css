@@ -1,0 +1,79 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #FFF;
+  padding: 1em;
+  text-align: center;
+}
+main {
+  background-color: #DDD;
+  border-radius: 0.25em;
+  max-width: auto;
+  margin: 0 auto;
+}
+#title {
+  font-size: 2.5em;
+  text-align: center;
+  padding: 1em 0em 0em 0em;
+}
+h2 {
+  font-size: 1.5em;
+  line-height: 3em;
+}
+p {
+  font-size: 1.2em;
+  text-color: #383838;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+#img-div {
+  max-width: 100%;
+  margin: 0 1em;
+  background-color: #FFF;
+  border-radius: .25em;
+  padding: 1em;
+}
+#img-caption {
+  max-width: 100%;
+  margin: 12px auto 8px auto;
+  font-size: 0.9em;
+}
+#tribute-info {
+  padding: 0 48px;
+}
+ul {
+  font-size: 1.1em;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+li {
+  margin: 1em 0;
+}
+.quote {
+  margin: 24px auto 48px auto;
+  padding: 0 48px;
+  max-width: 600px;
+  text-align: left;
+  font-style: italic;
+}
+#wiki {
+  margin: 0 auto;
+  background-color: #FFF;
+  border-radius: .1em;
+  padding: 1em;
+  max-width: 75%;
+  font-size: 1.5em;
+}
+#tribute-link {
+  text-decoration: none;
+}
+a{
+  color: orange;
+}
+a:hover {
+  color: orangered;
+}
